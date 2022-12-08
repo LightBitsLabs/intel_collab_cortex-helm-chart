@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   cortex:
   - apiVersion: v2
-    appVersion: v1.13.0
+    appVersion: v1.14.0
     created: "2022-12-07T09:01:02.785161751+02:00"
     dependencies:
     - alias: memcached
