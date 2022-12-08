@@ -14,7 +14,7 @@ maintainers:
     url: https://github.com/nschad
 name: cortex
 sources:
-  - https://github.com/cortexproject/cortex-helm-chart
+  - https://github.com/lightbits-intel/cortex-helm-chart
 dependencies:
   - name: memcached
     alias: memcached
