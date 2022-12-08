@@ -58,9 +58,9 @@ entries:
       url: https://github.com/nschad
     name: cortex
     sources:
-    - https://github.com/cortexproject/cortex-helm-chart
+    - https://github.com/lightbits-intel/cortex-helm-chart
     urls:
-    - https://cortexproject.github.io/cortex-helm-chart/cortex-1.8.0.tgz
+    - https://lightbits-intel.github.io/cortex-helm-chart/cortex-1.8.0.tgz
     version: 1.8.0
   - apiVersion: v2
     appVersion: v1.13.0
